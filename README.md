@@ -37,9 +37,9 @@ Display the test accuracy, confusion matrix, and classification report.
 
 ## PROGRAM
 
-### Name: KARTHIKEYAN R
+### Name: BHARANI KUMAR J
 
-### Register Number: 212222240046
+### Register Number: 212224240024
 
 ```
 import torch
